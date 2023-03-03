@@ -21,7 +21,7 @@ PUSH.addEventListener('click', () => {
  
     fname.value = '';
     surname.value = '';
-    // birthday.value = '';
+    birthday.value = '';
 
     result.push(info);
     return result
